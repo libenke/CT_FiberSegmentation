@@ -22,4 +22,4 @@ D --> B(binarized mask) --> S(skeleton) --> T(traced fibers)
 ### local view
 ![local view](./demo_data/local_view.png)
 ### final lines
-![final lines](./demo_data/final lines.png)
+![final lines](./demo_data/final_lines.png)
