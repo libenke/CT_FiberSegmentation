@@ -18,7 +18,7 @@ import os
 ####################################################################
 # fill the datas
 #dir_name is the director to store all the tmp and final results 
-data_dirs = ["11_cropped","22_cropped","80_cropped"]
+data_dirs = ["demo_data"]
 ####################################################################
 for data_dir in data_dirs:
     #The inital index of data is z,y,x
