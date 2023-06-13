@@ -1,5 +1,12 @@
 # Tracing Fibers in 3D CT Volume
 Trace the short fibes filled in the polymer matrix from the CT 3D volume data
+
+Author: Dr. Benke Li (李本科)
+
+Author's ORCID: https://orcid.org/0000-0002-8830-0563
+
+Author's ResearchGate: https://www.researchgate.net/profile/Benke-Li
+
 ## Work flow: 
 ```mermaid
 flowchart TD
