@@ -10,8 +10,8 @@ Author's ResearchGate: https://www.researchgate.net/profile/Benke-Li
 ## Work flow:
 ```mermaid
 flowchart TD
-D([Origin Data]) -- correlation operation --> O([orientation field]) -->T
-D --> B (binarized mask) --> S(skeleton) --> T (traced fibers)
+D([Original Data]) -- correlation operation --> O([orientation field]) -->T
+D --> B(binarized mask) --> S(skeleton) --> T(traced fibers)
 ```
 ## Background:
 Tracing high-concentrated fibers in the 3D CT images is not an easy task; this repository provides an efficient way to trace fibers based on the orientation fields obtained by convolve operations.
