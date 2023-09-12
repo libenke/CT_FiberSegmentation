@@ -35,7 +35,7 @@ numpy, scipy, scikit-image, pandas, matplotlib, napari, imageio
 4. Fill the data folder path in the assignment statement `data_dirs = ["demo_data",]` both in the files `step1-cal_orientation_field.py` and `step2-individual_fiber_segmentation.py`.
 5. Run in the terminal:
    ```
-   python -m step1-cal_orientation_field-Copy1.py
+   python -m step1-cal_orientation_field.py
    python -m step2-individual_fiber_segmentation.py
    ```   
 6. The results were stored as numpy files `.npy` and HDF5 files `.h5` in the data folders.
