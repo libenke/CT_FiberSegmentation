@@ -29,7 +29,7 @@ numpy, scipy, scikit-image, pandas, matplotlib, napari, imageio
    ```
 2. Download this package, or by command:
    ```
-   git clone https://github.com/libenke/CT_FiberSegentation
+   git clone https://github.com/libenke/CT_FiberSegmentation
    ```
 3. The 3D CT data should be stored as ".tiff" files for each slices in one folder, each folder for each volume data.
 4. Fill the data folder path in the assignment statement `data_dirs = ["demo_data",]` both in the files `step1-cal_orientation_field.py` and `step2-individual_fiber_segmentation.py`.
