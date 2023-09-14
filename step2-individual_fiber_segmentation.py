@@ -22,7 +22,7 @@ data_dirs = ["demo_data"]
 ####################################################################
 for data_dir in data_dirs:
     #The inital index of data is z,y,x
-    imagelist = [imageio.imread(file) for file in glob.glob(os.path.join(data_dir,"*[0-9][0-9][0-9].tif*"))]
+    imagelist = [imageio.imread(file) for file in sorted(glob.glob(os.path.join(data_dir,"*[0-9][0-9][0-9].tif*")))]
     data = np.array(imagelist)
     del(imagelist)
     print("initial data dimensions:", data.shape)
