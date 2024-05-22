@@ -6,7 +6,22 @@ Author: Dr. Benke Li (李本科)
 Author's ORCID: https://orcid.org/0000-0002-8830-0563
 
 Author's ResearchGate: https://www.researchgate.net/profile/Benke-Li
-
+> Please cite this paper if you use this package:
+>
+> Benke Li, Wei You, Sijun Liu, Li Peng, Xianbo Huang, and Wei Yu. "Role of confinement in the shear banding and shear jamming in noncolloidal fiber suspensions." __Soft Matter__ 2023, 19 (46), 8965-8977.
+> 
+> @Article{10.1039/D3SM00943B,
+>      author ="Li, Benke and You, Wei and Liu, Sijun and Peng, Li and Huang, Xianbo and Yu, Wei",
+>      title  ="Role of confinement in the shear banding and shear jamming in noncolloidal fiber suspensions",
+>      journal  ="Soft Matter",
+>      year  ="2023",
+>      volume  ="19",
+>      issue  ="46",
+>      pages  ="8965-8977",
+>      publisher  ="The Royal Society of Chemistry",
+>      doi  ="10.1039/D3SM00943B",
+>      url  ="http://dx.doi.org/10.1039/D3SM00943B"}
+>
 ## Work flow:
 ```mermaid
 flowchart TD
